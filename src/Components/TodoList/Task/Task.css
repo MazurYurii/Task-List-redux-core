@@ -1,0 +1,21 @@
+.Task {
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.TaskCompleted {
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+    border: 1px solid black;
+    margin: 10px;
+    border-color: #bdbdbd;
+    text-decoration: line-through;
+}
